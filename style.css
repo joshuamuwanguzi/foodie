@@ -374,12 +374,6 @@ form input::placeholder,
     section {
         padding: 50px 4%;
     }
-    #menu-icon {
-        display: initial;
-     }
-     header.active #menu-icon {
-        color: #fff;
-     }
      header .navbar {
         position: absolute;
         top: -500px;
