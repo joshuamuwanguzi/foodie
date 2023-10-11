@@ -24,7 +24,7 @@ img{
 }
 header{
     position: fixed;
-    width: 100%;
+    width: 90%;
     top: 0;
     right: 0;
     z-index: 1000;
@@ -80,7 +80,7 @@ header.active .navbar a {
     display: none;
 }
 .home{
-    width: 100%;
+    width: 90%;
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
@@ -122,7 +122,7 @@ header.active .navbar a {
 }
 .about {
     display: flex;
-    width: 100%;
+    width: 90%;
     align-items: center;
     flex-direction: column;
     background: url(img/about-bg.jpg);
