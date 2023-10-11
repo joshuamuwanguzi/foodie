@@ -122,6 +122,7 @@ header.active .navbar a {
 }
 .about {
     display: flex;
+    width: 100%;
     align-items: center;
     flex-direction: column;
     background: url(img/about-bg.jpg);
