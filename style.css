@@ -24,7 +24,7 @@ img{
 }
 header{
     position: fixed;
-    width: 80%;
+    width: 100%;
     top: 0;
     right: 0;
     z-index: 1000;
