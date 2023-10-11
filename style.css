@@ -80,7 +80,7 @@ header.active .navbar a {
     display: none;
 }
 .home{
-    width: 100%;
+    width: 80%;
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
@@ -367,10 +367,10 @@ form input::placeholder,
     text-align: center;
  }
  @media (max-width: 1100px) {
+    }
     .home-text h1 {
         font-size: 3rem;
     }
- }
  @media (max-width: 991px) {
     header {
         padding: 1px 4%;
@@ -381,6 +381,7 @@ form input::placeholder,
  }
  @media (max-width: 991px) {
     header {
+        width: 95%;
         padding: 11px 4%;
     }
     #menu-icon {
